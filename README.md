@@ -1,7 +1,7 @@
 
 # NBA Player Data Analysis Project (#1)
 
-This project is focused on analyzing and visualizing NBA player statistics using Python. Below is a breakdown of the project files, the technologies, packages, and modules used, along with other useful considerations.
+This beginner project is focused on analyzing and visualizing NBA player statistics using Python. Below is a breakdown of the project files, the technologies, packages, and modules used, along with other useful considerations.
 
 ## Project Files
 
